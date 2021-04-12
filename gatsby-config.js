@@ -9,6 +9,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `Gab26`,
   },
+  pathPrefix: `/gab2026`
 }
