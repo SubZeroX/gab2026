@@ -1,5 +1,9 @@
+---
+
+title: ["Prions"]
+---
 # Geral
-+ Não são [[Características gerais dos vírus|vírus]], mas sim proteínas infecciosas. [^647984]
++ Não são [[Vírus]], mas sim proteínas infecciosas. [^647984]
 
 [^647984]: O que são prions?
 
@@ -17,36 +21,4 @@
 [^462431]: Como os prions agem?
 
 + Controle se faz com incineração, autoclavação a 134 graus celsius com uma solução concetrada de hidróxido de sódio
-
-# Next
-[[12 04 2021]]controle1
-# Processo:
-Created: [[02-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

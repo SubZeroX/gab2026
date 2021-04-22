@@ -1,3 +1,7 @@
+---
+
+title: ["Hemodiálise"]
+---
 # Diálise
 ![Pasted image 20210410191136.png](Pasted%20image%2020210410191136.png)
 + É um método de difusão
@@ -22,37 +26,4 @@
 +  Substâncias que precisam ser excretadas (metabólitos tóxicos) à concentração menor no líquido de diálise e maior no sangue à substâncias se difundirão do sangue para o dialisante, sendo eliminadas 
 +  Substâncias que se deseja acrescentar ao sangue (carência ou desequilíbrio) à concentração maior no líquido de diálise e menor no sangue à substâncias se difundirão do líquido para o sangue.  [^643073]
 
-[^643073]: Como funciona as concentrações do líquido de diálise?
-
-# Next
-[[12 04 2021]]controle0
-# Processo:
-Created: [[10-04-21]]
-*+2 *  *Ctrl+0*
-- [ ] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+[^643073]: Como funciona as concentrações do líquido de diálise?#review 

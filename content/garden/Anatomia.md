@@ -1,5 +1,12 @@
-# Semana 08 a 12 de março
+---
+tags: ["MOC"]
+title: ["Anatomia"]
+---
+
 + [[Introdução à anatomia]]
 + [[Introdução ao sistema nervoso]]
 + [[Embriologia do sistema nervoso]]
-+ [[Membros superiores]]
++ ![[Ossos]]
++ [[Neurônios]]
++ [[Glia]]
++ [[Músculos]]

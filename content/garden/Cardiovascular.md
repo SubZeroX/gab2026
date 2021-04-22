@@ -1,0 +1,1 @@
+[[Artéria subclávia esquerda]]

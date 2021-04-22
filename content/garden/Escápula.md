@@ -1,5 +1,7 @@
-# Escápula
+---
 
+title: ["Escápula"]
+---
 <div class="sketchfab-embed-wrapper">
     <iframe title="Escápula u Omóplato" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/3db4da933c344d97b5d637f083018c87/embed">
     </iframe>
@@ -10,61 +12,27 @@
     </p>
 </div>
 
-A escápula é um triângulo.
-![Pasted image 20210330001820.png](Pasted%20image%2020210330001820.png)
++ A escápula é um triângulo.[^126245]
 
-## Três ângulos
-[^216211]
+[^126245]: Qual o formato geométrico da escápula?
 
-[^216211]: Delimite os 3 ângulos da escápula ![Pasted image 20210330001941.png](Pasted%20image%2020210330001941.png)
++ ![Pasted image 20210330001820.png](Pasted%20image%2020210330001820.png)
 
-## Ângulo lateral
-Coincide com a cavidade glenoidal que é onde se insere o úmero.[^187683]
+# Partes de interesse anatômico
++ [[Três ângulos da escápula]]
++ [[cavidade glenoidal da escápula]]
++ [[Tubérculo supraglenoidal]]
++ [[Tubérculo infraglenoidal]]
++ [[Margens da escápula]]
++ [[Espinha da escápula]]
++ [[Acrômio da escápula]]
++ [[Face costal e subescapular da escápula]]
++ [[Processo coracóide da escápula]] [^272735]
 
-[^187683]: Como que cavidade o ângulo lateral da escápula coincide?
+[^272735]: Quais são as partes de interesse anatômico da escápula?
 
-## Margens da escápula
-São pontos de inserção para muitos músculos
-
-[^817931]
-
-[^817931]: Define o que está marcado pelas setas ![Pasted image 20210330002358.png](Pasted%20image%2020210330002358.png)
-
-
-## Espinha da escápula
-Divide a escápula em superior e inferior. Por isso também a cavidade superior vai se chamar fossa supra-espinal e a inferior vai ser a fossa infra-espinal (pontos de origem de músculos de mesmo nome)
-
-[^242069]
-
-[^242069]: Defina o que está marcado pelas setas. ![Pasted image 20210330002810.png](Pasted%20image%2020210330002810.png)
-
-
-## Acrômio
-Parte mais alta do ombro. Pega a espinha e continua.
-
-[^487567]
-
-[^487567]: Defina o que está marcado pelas setas. ![Pasted image 20210330003327.png](Pasted%20image%2020210330003327.png)
-
-
-## Face costal e subescapular
-
-A face costal tem as impressões das costelas. Já a subescapular é o ponto de origem do músculo de mesmo nome.
-
-[^919738]
-
-[^919738]: Defina essas duas faces ![Pasted image 20210330003716.png](Pasted%20image%2020210330003716.png)
-
-
-## Processo coracóide
-É o ponto mais anterior, ele aponta para frente.
-[^517915]
-
-[^517915]: Define o que está marcado pelas setas ![Pasted image 20210330003853.png](Pasted%20image%2020210330003853.png)
-
-## Cavidade glenoidal
-Onde se insere a cabeça do úmero
-
-[^484232]
-
-[^484232]: Defina o que está marcado pelas setas ![Pasted image 20210330004147.png](Pasted%20image%2020210330004147.png)
+# Movimentos
++ [[Elevação e depressão da cintura escapular]]
++ [[Protusão e retrusão da cintura escapular]]
++ [[Escápula na abdução da articulação glenoumeral]]
+#review 

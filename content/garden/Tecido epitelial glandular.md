@@ -1,3 +1,7 @@
+---
+
+title: ["Tecido epitelial glandular"]
+---
 # Origem
 + Origem a partir de células de um epitélio de revestimento que irão se multiplicar e invadir o tecido conjuntivo;
 + ![Pasted image 20210406120004.png](Pasted%20image%2020210406120004.png)[^74431]
@@ -246,39 +250,6 @@ Comum em pacientes fumantes, mas também um dos mais comuns em pacientes não fu
 
 [^22200]: Por que o adenocarcinoma de pulmão se chama assim?
 
-# Next
-[[16 04 2021]]controle2
-# Processo:
-Created: [[28-03-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [x] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
-
 # PDF
 _Qual a característica em relação ao dutos das glândulas exócrinas? ([note on p.5](zotero://open-pdf/library/items/SE7YRZTP?page=5))_
 
@@ -346,4 +317,4 @@ _Exemplo de glândula holócrina. ([note on p.11](zotero://open-pdf/library/item
 
 _Exemplo de glândula apócrina. ([note on p.11](zotero://open-pdf/library/items/SE7YRZTP?page=11))_
 
-_Exemplo de glândula merócrina ([note on p.11](zotero://open-pdf/library/items/SE7YRZTP?page=11))_
+_Exemplo de glândula merócrina ([note on p.11](zotero://open-pdf/library/items/SE7YRZTP?page=11))_#review 

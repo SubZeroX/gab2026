@@ -1,3 +1,7 @@
+---
+
+title: ["Tradução"]
+---
 # Início da tradução
 + Se dá pelo reconhecimento e ligação da subunidade menor do ribossomo na molécula do [[Processamento do RNA#Adição do CAP na extremidade 5'|CAP]]
 + A partir desse momento, o Ribossomo começa a migrar pelo RNA mensageiro até encontrar o códon (AUG)
@@ -42,36 +46,4 @@
 
 # Completo
 ![[zz2fsa81bx.mp4]]
-
-# Next
-[[16 04 2021]]controle1
-# Processo:
-Created: [[06-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

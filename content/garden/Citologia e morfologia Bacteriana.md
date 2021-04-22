@@ -1,3 +1,11 @@
+---
+
+title: ["Citologia e morfologia Bacteriana"]
+sr-due: Fri Apr 16 2021
+sr-interval: 3
+sr-ease: 270
+---
+
 # O tamanho, a forma e o arranjo das células bacterianas
 + A forma de uma bactéria é determinada por hereditariedade
 + Geralmente, são monomórficas (mantém uma forma única), mas podem mudar por pressão ambiental. Algumas bactérias (Rhizobium e Corynebacterium) são geneticamente pleomórficas - apresentam muitas formas.[^882207]
@@ -144,6 +152,24 @@ END
 + O glicocálice das bactérias é definido como "cápsula". [^772094]
 
 [^772094]: Qual nome se dá ao glicocálice das bactérias?
+
+
+%%
+
+TARGET DECK
+Medicina::Microbiologia
+
+START
+ZettelBasic
+Pergunta: Qual nome se dá ao glicocálice das bactérias?
+Resposta: Cápsula
+Zettel: Citologia e morfologia Bacteriana
+<!--ID: 1618361034300-->
+END
+
+%%
+
+
 
 + É firmemente aderido à parede celular.
 + Se a substância não é organizada e está fracamente aderida à parede celular, o glicocálice é descrito como **camada limosa**
@@ -495,36 +521,4 @@ A fase de morte ocorre por conta do fim dos nutrientes, geralmente.[^355101]
 
 [^683745]: Quais são os mecanismos de resistência à fármacos antimicrobianos?
 
-
-# Next
-[[13 04 2021]]controle1
-# Processo:
-Created: [[04-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review #review 

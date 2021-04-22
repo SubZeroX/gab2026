@@ -1,5 +1,7 @@
 ---
-aliases: ["carboidratos"]
+
+title: ["Glicídios"]
+
 ---
 
 + [[Funções dos glicídios]]
@@ -29,37 +31,4 @@ O amido é mais ramificado, enquanto o glicogênio é menos.
 Ligações (Alfa1-4) nas cadeias lineares e (Alfa1-6) nas ramificações.  [^982040]
 
 [^982040]: Quais são as diferenças estruturais entre amido e glicogênio?
-
-
-# Next
-[[21 04 2021]]controle2
-# Processo:
-Created: [[01-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [x] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

@@ -1,3 +1,11 @@
+---
+
+title: ["Microbiota endógena"]
+sr-due: Fri Apr 16 2021
+sr-interval: 3
+sr-ease: 270
+---
+
 # Conceito
 São todos os microoganismos encontrados na superfície ou interior do nosso corpo. Encontram-se em equilíbrio com o organismo do hospedeiro e se esse equilíbrio for alterado, a doença pode acontecer [^449256]
 
@@ -25,7 +33,7 @@ São todos os microoganismos encontrados na superfície ou interior do nosso cor
 
 ## Microbiota temporariamente residente
 + É transiente, mas nos coloniza por um tempo maior
-+ Estafilococus aureus [^512538]
++ [[Staphylococcus aureus]] [^512538]
 
 [^512538]: O que é uma microbiota temporariamente residente?
 
@@ -75,36 +83,4 @@ Outros tipos de bactérias, como o do ambiente e das mãos do médico.
 + Infecções hospitalares - bactérias de um paciente podem passar para outro
 + pacientes queimados - perdem proteção da pele
 + Infecções oportunistas - quando ocorre desiquilíbrio do ambiente
-
-# Next
-[[13 04 2021]]controle1
-# Processo:
-Created: [[04-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

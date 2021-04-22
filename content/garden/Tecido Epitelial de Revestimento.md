@@ -1,3 +1,7 @@
+---
+
+title: ["Tecido Epitelial de Revestimento"]
+---
 Células poliédricas (com várias faces) [^205775]
 
 [^205775]: O que é uma célula poliédrica?
@@ -337,38 +341,4 @@ Acontece principalmente no trato respiratório de pacientes tabagistas. [^16800]
 [^16800]: O que ocorre na metasplasia escamosa?
 
 
-
-## Next
-[[16 04 2021]]controle2
-## Processo:
-Created: [[28-03-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [x] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
-
-
+#review 

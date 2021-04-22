@@ -1,3 +1,7 @@
+---
+
+title: ["Aminoácidos"]
+---
 # Nomenclatura
 ![Pasted image 20210406164529.png](Pasted%20image%2020210406164529.png)
 + **Aminoácidos**:  são unitários
@@ -100,35 +104,4 @@
 [^90262]: O que significa o pKr da curva de titulação de aminoácidos com átomos ionizáveis na cadeia lateral?
 
 
-# Next
-[[15 04 2021]]controle1
-# Processo:
-Created: [[06-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

@@ -1,0 +1,1 @@
++ 5 [[Vértebras]] fusionadas

@@ -1,5 +1,5 @@
 ---
-aliases: "Tripanossomíase"
+title: ["Doença de chagas"]
 ---
 
 # Geral
@@ -30,7 +30,7 @@ aliases: "Tripanossomíase"
 
 
 # Barbeiro
-+ Nome popular é percevejo 
++ Nome popular é percevejo
 + ![Pasted image 20210405214641.png](Pasted%20image%2020210405214641.png)[^16652]
 
 [^16652]: Qual o nome popular do transmissor da doença de Chagas?
@@ -87,7 +87,7 @@ END
 
 # Fases da doença de Chagas
 ## Fase 1 ou Aguda
-+ Onde se tem o parasito (flagelado e que nada entre as hemácias) circulante no sangue 
++ Onde se tem o parasito (flagelado e que nada entre as hemácias) circulante no sangue
 	+ ![Pasted image 20210405222540.png](Pasted%20image%2020210405222540.png)[^705791]
 
 [^705791]: Onde o parasito está na fase aguda da doença de Chagas?
@@ -173,7 +173,7 @@ END
 [^828712]: Quais são as vias de transmissão da Doença de Chagas?
 
 
-# Tratamento 
+# Tratamento
 + Benzonidazol
 
 # Profilaxia
@@ -191,7 +191,7 @@ Created: [[06-04-21]]
 
 *+7*  *Ctrl+1*
 
-- [ ] Primeira 
+- [ ] Primeira
 
 *+10*  *Ctrl+2*
 
@@ -199,18 +199,18 @@ Created: [[06-04-21]]
 
 *+15*  *Ctrl+3*
 
-- [ ] Terceira 
+- [ ] Terceira
 
 *+30*  *Ctrl+4*
 
-- [ ] Quarta 
+- [ ] Quarta
 
 *+60*  *Ctrl+5*
 
-- [ ] Quinta 
+- [ ] Quinta
 
 *+120*  *Ctrl+6*
 
-- [ ] Sexta 
+- [ ] Sexta
 
-*+240*  *Ctrl+7*
+*+240*  *Ctrl+7*#review

@@ -1,3 +1,7 @@
+---
+
+title: ["Diphyllobotrium"]
+---
 # Diphyllobothrium spp
 + Mais patogênico é Diphyllobothrium latum
 	+ Conhecido como tênia do peixe
@@ -46,37 +50,4 @@
 [^416355]
 
 [^416355]: Os ovos do Diphyllobotrium são infecciosos?
-
-
-# Next
-[[19 04 2021]]controle2
-# Processo:
-Created: [[31-03-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [x] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

@@ -1,3 +1,7 @@
+---
+
+title: ["Esquistossomose"]
+---
 # Geral
 + Sexuado (com duas formas)[^106486]
 
@@ -73,35 +77,4 @@
 
 [^832649]: Como se dá o diagnóstico da esquistossomose?
 
-# Next
-[[21 04 2021]]controle2
-# Processo:
-Created: [[31-03-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [x] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

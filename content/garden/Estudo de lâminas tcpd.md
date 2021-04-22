@@ -1,3 +1,7 @@
+---
+
+title: ["Estudo de lâminas tcpd"]
+---
 # Células
 ## Fibroblasto
 Com núcleo bem ovalado e mais pálido. 
@@ -131,3 +135,4 @@ As fibras estão em várias direções e sentidos também, por isso não modelad
 [^873707]: Que tipo de tecido é esse? ![Pasted image 20210329105724.png](Pasted%20image%2020210329105724.png)
 
 
+#review 

@@ -1,3 +1,11 @@
+---
+
+title: ["Fármacos antifúngicos"]
+sr-due: Fri Apr 16 2021
+sr-interval: 3
+sr-ease: 270
+---
+
 # Uso complexo
 + Fungos usam os mesmos mecanismos de síntese de proteínas e ácidos nucleicos dos animais superiores, o que causa nefrotoxicidade
 + Normalmente tem baixa toxicidade seletiva[^941652]
@@ -6,7 +14,7 @@
 
 
 # Alvo
-+ Muitos deles tem como alvo os esteróis presentes na membrana plasmática (o principal é o ergosterol) - o das nossas é o colesterol
++ Muitos deles tem como alvo os esteróis presentes na membrana plasmática (o principal é o **ergosterol**) - o das nossas é o colesterol
 + A membrana do fungo fica excessivamente permeável levando a morte da célula [^429360]
 
 [^429360]: Qual o esteróide que é alvo dos fármacos antifúngicos que afetam a membrana plasmática desses seres?
@@ -43,36 +51,4 @@
 + É tóxico para rins e medula óssea
 + Tem espectro limitado Candida spp., C. neoformans e alguns fungos dematiáceos (cromoblastomicoses)
 + Utilizado em associação com Anforecina B ou Fluconazol
-
-# Next
-[[13 04 2021]]controle1
-# Processo:
-Created: [[04-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

@@ -1,3 +1,7 @@
+---
+
+title: ["Introdução ao sistema nervoso"]
+---
 # Termos de orientação
 ![Pasted image 20210329161351.png](Pasted%20image%2020210329161351.png)
 ## Estruturas rostrais
@@ -129,7 +133,7 @@ São as células neuronais propriamente ditas. Representada pelo corpo dos neur�
 
 
 ## Substância branca
-São os prolongamentos do corpo neuronal. Composto pelos dendritos e pelos axônios [^817272]
+São os prolongamentos do corpo neuronal. Composto pelos dendritos e pelos [[Axônios]]  [^817272]
 
 [^817272]: Que partes do neurônio compõem a substância branca?
 
@@ -139,35 +143,4 @@ A substância cinzenta no córtex e no cerebelo está na parte periférica. Já 
 
 [^864438]: Em que porção do cortéx está localizado a substância branca e cinzenta? E na medula?
 
-# Next
-[[17 04 2021]]controle2
-# Processo:
-Created: [[29-03-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [x] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

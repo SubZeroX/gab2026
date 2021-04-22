@@ -1,3 +1,7 @@
+---
+
+title: ["Osmose"]
+---
 # Definição
 Passagem somento do solvente do meio hipotônico para o hipertônico até igualarem-se as concentrações.
 
@@ -76,37 +80,4 @@ Se eu tiver um meio ao redor da célula de 0,5 osmolar, líquido saí da célula
 
 [[Caso clínico 1 Biofísica]]
 [[Caso clínico 2 Biofísica]]
-[[Caso clínico 3 Biofísica]]
-
-# Next
-[[12 04 2021]]controle1
-# Processo:
-Created: [[02-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+[[Caso clínico 3 Biofísica]]#review 

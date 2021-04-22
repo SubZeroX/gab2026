@@ -1,3 +1,11 @@
+---
+
+title: ["A estrutura cíclica em solução dos glicídios"]
+sr-due: Sat Apr 24 2021
+sr-interval: 8
+sr-ease: 270
+---
+
 + Em solução (dentro das células, por exemplo), os glícidios sofrem ciclização, se comportando, em 90% dos casos, como hemiacetal (para aldeídos) e hemicetal (para cetonas). [^433901]
 
 [^433901]: O que os glícidios sofrem quando em solução?
@@ -67,36 +75,4 @@ No beta, o grupo OH do carbono anomérico reside do mesmo lado do grupo terminal
 
 [^542787]: O que é uma molécula beta em relação a ciclização?
 
-
-# Next
-[[13 04 2021]]controle0
-# Processo:
-Created: [[11-04-21]]
-*+2 *  *Ctrl+0*
-- [ ] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review #review 

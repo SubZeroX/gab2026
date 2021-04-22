@@ -1,0 +1,73 @@
+---
+title: ["Tecido muscular Estriado esquelético"]
+---
+-   Apresenta estrias transversais
+-   Formada por [[Sincícios]] conhecidos como [[Sarcômero]]
+-   Especializado em [[Contrações musculares]]
+-   Apresentam uma [[Origem dos músculos]] e uma [[Inserção dos músculos]]
+-   Formada a partir de células percursoras conhecidas como mioblastos
+	-   Produzem grande quantidade de actina e miosina e fundem-se a outras células
+-   [[Estrutura de sustentação muscular]]
+-   Membrana plasmática de cada miócito se chama **sarcolema**
+-   O citoplasma se chama sarcoplasma 
+-   A fibra muscular apresenta grande quantidade de retículo endoplasmático granuloso especializado em armazenar íons de cálcio (Ca2+) 
+- De espaços em espaços, a membrana plasmática da fibra estriada esquelética se dobra para o interior do sarcoplasma, formando tubos achatados, os túbulos T
+-   Os músculos de cor avermelhada, apresentam essa cor por conta da mioglobina 
+-   (uma única camada polipetídica ligada a um grupo heme e que consegue transportar uma molécula de O<sub>2</sub>)
+-   As miofibrilas apresentam unidades de repetição chamadas de miômeros.
+	-   Cada miômero é delimitado pelas linhas Z
+-   Apresenta 2 faixas escuras, onde miosina e actina se sobrepõem ![markdown-img-paste-20200706191015958.png](markdown-img-paste-20200706191015958.png)
+  -   Apresenta 3 faixas claras, onde ou só tem miosina ou actina ![markdown-img-paste-2020070619114221.png](markdown-img-paste-2020070619114221.png)
+	-   Banda I não apresenta miosina, fica nas laterais próximas as linhas Z 	![markdown-img-paste-20200706191421943.png](markdown-img-paste-20200706191421943.png)
+	-   Banda A é a região central, onde fica a miosina ![markdown-img-paste-20200706191440815.png](markdown-img-paste-20200706191440815.png)
+	-   Zona H não apresenta actina, só miosina ![markdown-img-paste-20200706191517453.png](markdown-img-paste-20200706191517453.png)
+-   As moléculas de actina se organizam formando um arranjo helicoidal
+-   As moléculas de miosina organizam-se na forma de microscópicos tacos de golfe
+-   A contração muscular ocorre quando os filamentos de actina deslizam sobre os filamentos de miosina, aproximando os discos Z e diminuindo o comprimento do miômero. 
+-   Contração muscular
+-   Começa com uma terminação nervosa presente em uma terminação nervosa do endomísio.
+  -   O estímulo se propaga pelos tubos T
+	-   Atinge o retículo sarcoplasmático
+	-   Provoca a liberação de íons Ca2+
+	-   Em presença do cálcio, moléculas de ATP reagem com as "cabeças" das miosinas
+	-   As cabeças de miosina ligam-se a actina, puxando-a e
+		encurtando o miômero
+	-   Imediatamente, outras miosinas continuam puxando o complexo de actinas, encurtando o músculo com um todo
+	-   Com o fim da estimulação nervosa, cessa a saída de íons Ca2+ e esses são bombeados para o interior das bolsas membranosas ativamente
+-   Energia para a Contração
+	-   A fonte direta são moléculas de ATP 
+-   Célula muscular tem poucos, capazes de manter por apenas 0,5 segundos a contração
+	-   A fonte indireta são moléculas de fosfato de creatina ou fosfocreatina 
+-   À medida que o ATP vai sendo usado, fosfatos de alta energia são transferidos para o ADP, fazendo ATP
+	 -   Tem concentração 10 vezes maior
+		-   É remodelado quando cessa a atividade celular, os novos ATPs gerados repõem o estoque de creatina
+	-   As células musculares armazenam grande quantidade de glicogênio 
+-   Serve como reservatório de energia
+		-   Pode ser transformado em moléculas de glicose e
+			usada na respiração celular para gerar ATP
+		-   Quando o estoque de oxigênio da mioglobina acaba, a célula muscular realiza fermentação láctica para gerar ATP 
+-   Isso acaba por gerar ácido láctico, tóxico
+ -   Causa dor e intoxicação na fibra muscular
+	  -   O ácido láctico gerado é transportado pelo sangue até o fígado e os rins
+	   -   Nesse órgãos, o ácido láctico é convertido em glicose por meio da gliconeogênese
+			 -   é um processo metabólico em que glicose é produzida a partir de precursores não glicídicos, como ácido láctico, aminoácidos e glicerol. 90% ocorre no fígado e 10% os rins
+	-   Fibras musculares lentas e rápidas
+		-   Existem dois tipos de miosinas
+			-   Tipo I ou miosina lenta 
+-   Mais mitocôndrias, irrigação sanguínea e mioglobina
+  -   Esforço moderado ou prolongado
+	-   Corridas de longa distância e ciclismo
+  -   Tipo II ou miosina rápida 
+-   Contraem-se 10 vezes mais depressa
+ -   Pouca mioglobina, menor quantidade de mitocôndrias e irrigação sanguínea
+		-   Esfoço intenso de curta duração
+				-   Corridas de velocidade e levantamento de peso
+			-   A quantidade é mais ou menos a mesma em quase todas as pessoas adultas
+				-   Influência genética faz certas pessoas ter mais de um tipo
+				-   Treinamento é capaz de modificar até certo ponto as miosinas
+					-   Quando uma pessoa se submete sistematicamente a exercícios de levantamento de peso, o número de fibras rápidas em seus músculos diminui e, as fibras lentas intensificam a produção de proteínas, tornando-se mais grossas e causando a hipertrofia muscular 
+-   Tônus muscular
+		-   Há sempre fibras sendo estimuladas e se contraindo no corpo
+		-   Responsável pela firmeza dos músculos e para a manutenção da postura do corpo
+		-   Pessoas com lesão na medula espinhal podem ter falta de estimulação nervosa, falta de tônus muscular, o que causa a atrofia da musculatura
+

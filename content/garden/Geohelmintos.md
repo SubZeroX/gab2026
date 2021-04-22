@@ -1,3 +1,7 @@
+---
+
+title: ["Geohelmintos"]
+---
 # Geral
 + Vermes que passam parte do ciclo no solo.
 	+ Geo-hemiltos são vermes nematoides que necessitam, obrigatoriamente, passar pelo solo para completar seu ciclo evolutivo. Sendo esse o fator relacionado a falta de saneamento básico, que explica a grande vulnerabilidade das populações mais pobres, as quais possuem baixo conhecimento sobre práticas higiênicas e são expostas diariamente à parasitas pela ausência de tratamento de esgoto e de água para consumo.[^550393]
@@ -279,37 +283,4 @@ END
 
 [^94051]: Quais são os sintomas do Ancilostomídeo
 
-
-
-# Next
-[[18 04 2021]]controle2
-# Processo:
-Created: [[30-03-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [x] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

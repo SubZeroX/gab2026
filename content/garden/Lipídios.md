@@ -1,3 +1,11 @@
+---
+
+title: ["Lipídios"]
+sr-due: Fri Apr 16 2021
+sr-interval: 3
+sr-ease: 270
+---
+
 Estrutura essencialmente composta de Carbono, Hidrogênio e Oxigênio. Em algumas classes, fósforo (P), nitrogênio (N), e enxofre (S).
 
 # Características gerais
@@ -249,35 +257,5 @@ END
 
 [^873074]: Quais são as estruturas formadas pelos detergentes?
 
-# Next
-[[12 04 2021]]controle1
-# Processo:
-Created: [[02-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
 
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

@@ -1,5 +1,7 @@
 ---
-aliases: ["Mutações"]
+
+title: ["Mutação"]
+
 ---
 
 + Mutações são variações no nosso genoma[^640380]
@@ -8,14 +10,17 @@ aliases: ["Mutações"]
 
 # Classificações
 + [[Classificação de uma mutação de acordo com seu local]]
-+ [[Classificação de uma mutação de acordo com seu tipo]]
++ [[Classificação de uma mutação de acordo com seu tipo]] [^876498]
+
+[^876498]: Quais são as duas classificações das mutações?
+
 
 # Next
-[[11 04 2021]]controle0
+[[19 04 2021]]controle1
 # Processo:
 Created: [[07-04-21]]
 *+2 *  *Ctrl+0*
-- [ ] Molho  
+- [x] Molho  
 
 *+7*  *Ctrl+1*
 
@@ -42,3 +47,4 @@ Created: [[07-04-21]]
 - [ ] Sexta 
 
 *+240*  *Ctrl+7*
+#review 

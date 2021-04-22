@@ -1,3 +1,7 @@
+---
+
+title: ["Plathelminthes"]
+---
 # Teníase
 ## Ciclo
 ![Pasted image 20210331143703.png](Pasted%20image%2020210331143703.png)
@@ -55,39 +59,6 @@ Parece um ovo frito [^624539]
 
 [^624539]: Como é o ovo do parasito da Hymenolepíase?
 
-# Next
-[[13 04 2021]]controle1
-# Processo:
-Created: [[31-03-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
-
 
 
 Como é o sistema reprodutor das tênias? ([note on p.9](zotero://open-pdf/library/items/Z9U9WX4A?page=9))
@@ -138,4 +109,4 @@ Qual a diferença nos acúleos do Hymenolepis e da tênia? ([note on p.10](zoter
 10. Qual o nome popular do Hymenolepis nana? Tênia-anã. 
 11.  O Hymenolepis apresenta a possibilidade de um ciclo monoxênico ou heteroxênico. Quais os hospedeiros intermediários possíveis? Pulgas e besouros. 
 12.  Qual a forma parasitária infectante do Hymenolepis? Ovos larvados. 
-13.  Qual a forma de diagnóstico do Hymenolepis? Ovos nas fezes.
+13.  Qual a forma de diagnóstico do Hymenolepis? Ovos nas fezes.#review 

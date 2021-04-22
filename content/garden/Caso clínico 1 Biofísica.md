@@ -1,3 +1,7 @@
+---
+
+title: ["Caso clínico 1 Biofísica"]
+---
 Um paciente foi admitido no hospital, estava confuso e sentia náuseas. A sua história clínica foi obtida de sua namorada. Ele era diabético insulino dependente, que fora diagnosticado a oito anos atrás. Nos últimos dois dias estava de férias, bebeu mais que o normal, não tomou a medicação indicada (insulina), e fumou cerca de 20 cigarros por dia. Nestes dias teve vômitos e urinou grandes volumes de urina. O exame físico mostrou que ele estava taquipneico, desidratado e com cheiro de acetona. O sangue foi retirado e os seguintes resultados foram obtidos:
 
  Sódio .......... 129 mmol/L (140 mmol/L)
@@ -31,7 +35,7 @@ Um paciente foi admitido no hospital, estava confuso e sentia náuseas. A sua hi
 
 
 # Explique os resultados dos exames encontrados no paciente.
-Estava desidratado porque ele perdeu água das células, já que tem uma grande nível de glicose fora da célula (o que aumentou a osmoralidade do sangue e favoreceu o fluxo nesse sentido).  [^184767]
+Estava desidratado porque ele perdeu água das células, já que tem uma grande nível de glicose fora da célula (o que aumentou a osmolaridade do sangue e favoreceu o fluxo nesse sentido).  [^184767]
 
 [^184767]: Por que esse paciente estava desidratado?
 
@@ -44,37 +48,4 @@ Essa água que saiu das células dilui o sódio e, então, seu nível caí. [^39
 # Porque as cetonas estão aumentadas?
 Células que são insoludependentes (musculos e adipócitos) não tem glicose (porque o paciente não estava tomando insulina), então elas usam lipídios (que liberam corpo cetônicos) e é por isso o cheiro de acetona. [^175696]
 
-[^175696]: Por que as cetonas estão aumentadas?
-
-# Next
-[[12 04 2021]]controle1
-# Processo:
-Created: [[02-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+[^175696]: Por que as cetonas estão aumentadas?#review 

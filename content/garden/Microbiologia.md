@@ -1,10 +1,14 @@
+---
+tags: ["MOC"]
+title: ["Microbiologia"]
+---
 + [[Dúvidas]]
 + [[Interação patógeno-hospedeiro]]
-+ [[Características gerais dos vírus]]
++ [[Vírus]]
 + [[Prions]]
 + [[Citologia e morfologia Bacteriana]]
 + [[Microbiota endógena]]
 + [[Fármacos antimicrobianos]]
 + [[Fármacos antifúngicos]]
 + [[Fármacos antivirais]]
-+ [[Controle do crescimento microbiano]]
++ [[Controle do crescimento microbiano]]#review 

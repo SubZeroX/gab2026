@@ -1,3 +1,7 @@
+---
+
+title: ["Esporozoários"]
+---
 # Geral
 + ![Pasted image 20210405145504.png](Pasted%20image%2020210405145504.png)
 + Intracelulares obrigatórios [^795024]
@@ -141,37 +145,4 @@ END
 
 [^845198]: Qual o diagnóstico dos esporozoários?
 
-
-
-# Next
-[[14 04 2021]]controle1
-# Processo:
-Created: [[05-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

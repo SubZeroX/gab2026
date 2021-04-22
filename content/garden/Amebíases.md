@@ -1,3 +1,7 @@
+---
+
+title: ["Amebíases"]
+---
 
 # Geral
 + Reino Protozoa
@@ -15,9 +19,10 @@
 
 # Espécies
 + Entamoeba coli = não patogênica, mais comum entre nós. Tem cisto com 5 núcleos;
-+ Entamoeba histolytica = pode ser patogênica, tem cistos com até 4 núcleos;[^285983]
-
-[^285983]: Qual espécie de Ameba pode ser patogênica? 
++ Entamoeba histolytica = **pode ser patogênica**, tem cistos com até 4 núcleos;
+	+ ![Pasted image 20210412144521.png](Pasted%20image%2020210412144521.png)[^285983]
+	
+[^285983]: Qual espécie de Ameba pode ser patogênica (mas não tem obrigatoriedade de ser)? 
 
 + Entamoeba díspar = não patogênica com cistos de até 4 núcleos;
 + Entamoeba policki = cistos de até um núcleo [^211722]
@@ -66,7 +71,7 @@
 
 
 # Transmissão
-	+ Ingestão de água não tratada e alimentos contaminados.
++ Ingestão de água não tratada e alimentos contaminados.
 + Relação sexual oral-anal.
 + Moscas que pousam nos alimentos [^378301]
 
@@ -102,39 +107,4 @@
 # Tratamento
 + Luz intestinal = Dicloroacetamidas (Teclosan, Furamida, Etofamida, Clefamida);
 + Teciduais = Nitroimidazol (Metronidazol, Tinidazol, Omidazol, Nimorazol), Deidroemetina e Emetina;
-+ Para abcessos hepáticos = Metronidazol. 
-
-
-# Next
-[[14 04 2021]]controle1
-# Processo:
-Created: [[05-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
-
++ Para abcessos hepáticos = Metronidazol. #review 

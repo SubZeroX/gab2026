@@ -1,5 +1,7 @@
-*
+---
 
+title: ["Tecido conjuntivo propiamente dito"]
+---
 # Origem
 + Célula tronco multipotente conhecida como célula mesenquimal indiferenciada do mesoderma[^429514]
 
@@ -374,7 +376,7 @@ Pode ocorrer morte por rompimento das artérias de grande calibre (como a aorta)
 
 + São altamente adaptáveis e podem ser distentidas sem se romper em até 1,5x o seu tamanho
 + Nas artérias elásticas e ligamentos vertebrais, o material elástico está presente na forma de lamelas elásticas que tem uma disposição intensamente agrupadas dessas fibras
-	+ ![[Pasted image 20210329005713.png]][^788885]
+	+ ![[Pasted image 20210329005713.png]] [^788885]
 
 [^788885]: Como o material elástico se apresenta nas artérias elásticas e ligamentos vertebrais?
 
@@ -463,37 +465,4 @@ Se vê clinicamente como um inchaço e uma região com falta de elasticidade. Qu
 + Profundidade da derme e submucosa de órgãos ocos [^414130]
 
 [^414130]: Onde é encontrado o tecido conjuntivo denso não modelado?
-
-
-# Next
-[[19 04 2021]]controle2
-# Processo:
-Created: [[29-03-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [x] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

@@ -1,3 +1,7 @@
+---
+
+title: ["Introdução à anatomia"]
+---
 # Posição anatômica
 ![Pasted image 20210329113033.png](Pasted%20image%2020210329113033.png)
 
@@ -328,37 +332,4 @@ Incluem-se os pneumáticos como as maxilas
 Esfenóide
 ## Sesamóides
 Se encontram no interior de tendões musculares
-
-
-# Next
-[[17 04 2021]]controle2
-# Processo:
-Created: [[29-03-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [x] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 

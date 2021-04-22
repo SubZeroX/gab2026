@@ -1,3 +1,7 @@
+---
+
+title: ["Larva Migrans visceral"]
+---
 # Agente
 + Toxocara canis (cães) e Toxocara cati (gatos)[^539055]
 
@@ -100,37 +104,4 @@
 + Kit ELISA
 + Não tem como fazer exame de fezes[^256232]
 
-[^256232]: Como se faz o diagnóstico da Toxocaríase?
-
-# Next
-[[14 04 2021]]controle1
-# Processo:
-Created: [[05-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+[^256232]: Como se faz o diagnóstico da Toxocaríase?#review 

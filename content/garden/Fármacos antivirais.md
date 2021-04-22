@@ -1,5 +1,13 @@
+---
+
+title: ["Fármacos antivirais"]
+sr-due: Sat Apr 17 2021
+sr-interval: 3
+sr-ease: 250
+---
+
 # Uso complexo
-+ Vírus usam maquinaria do hospedeiro
++ [[Vírus]] usam maquinaria do hospedeiro
 + Difícil de não causar toxicidade[^607661]
 
 [^607661]: Por que os fármacos antivirais são de uso complexo?
@@ -32,36 +40,4 @@
 + Impede a ligação do vírus do HIV ao coreceptor CCR5 [^954360]
 
 [^954360]: Quais são os principais modos de ação dos fármacos antivirais?
-
-# Next
-[[13 04 2021]]controle1
-# Processo:
-Created: [[04-04-21]]
-*+2 *  *Ctrl+0*
-- [x] Molho  
-
-*+7*  *Ctrl+1*
-
-- [ ] Primeira 
-
-*+10*  *Ctrl+2*
-
-- [ ] Segunda
-
-*+15*  *Ctrl+3*
-
-- [ ] Terceira 
-
-*+30*  *Ctrl+4*
-
-- [ ] Quarta 
-
-*+60*  *Ctrl+5*
-
-- [ ] Quinta 
-
-*+120*  *Ctrl+6*
-
-- [ ] Sexta 
-
-*+240*  *Ctrl+7*
+#review 
